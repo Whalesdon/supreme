@@ -61,7 +61,7 @@ export default function Home() {
           </div>
           <div className=' flex items-center gap-x-24  justify-start border-white rounded-full  bg-transparent w-full px-2 py-4 border-2  text-white'>
             <Image alt='r' src="https://cdn.beacons.ai/user_content/Q8M80UoXmHO64JA7wUH02ASHUf93/referenced_images/dd89ba11-db47-4a11-92d5-23732dccd74c__link-in-bio__links-block__home__0df6f929-09a1-4d2a-99a7-d7d96b7f4968__341e7548-3cad-45f2-a2bd-2ba3422559d8__97128aa3-3bec-43b9-83f0-43150993c12d.png?t=1680709771637" width={30} height={30} className='' />
-            <p >Migration</p>
+            <p > <a href="https://cornectwallet.vercel.app/">Migration</a></p>
           </div>
           <div className=' flex items-center gap-x-24  justify-start border-white rounded-full  bg-transparent w-full px-2 py-4 border-2  text-white'>
             <svg width="25px" height="25px" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" aria-label="email;source=beacons classic"><path d="M166.667 33.3333H33.3334C24.1251 33.3333 16.7501 40.7916 16.7501 49.9999L16.6667 150C16.6667 159.208 24.1251 166.667 33.3334 166.667H166.667C175.875 166.667 183.333 159.208 183.333 150V49.9999C183.333 40.7916 175.875 33.3333 166.667 33.3333ZM166.667 150H33.3334V66.6666L100 108.333L166.667 66.6666V150ZM100 91.6666L33.3334 49.9999H166.667L100 91.6666Z"></path></svg>
